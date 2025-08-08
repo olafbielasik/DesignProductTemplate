@@ -6,6 +6,6 @@ Aether is a premium, interactive web template for showcasing high-end products, 
 ## **Key Features**
 - **WebGL Shader Animation** – Custom vertex and fragment shaders with **Three.js** for animated, interactive backgrounds
 - **3D Product Viewer** – Embedded Sketchfab model for real-time, rotatable product visualization
-- **Responsive UI** – Adaptable design for desktop, tablet, and mobile using **CSS Grid** and **Flexbox**
+- **Responsive UI** – Adaptable design for desktop, tablet, and mobile
 - **Interactive Elements** – Hover animations, scroll indicators, and animated call-to-action components
 - **Comprehensive Product Sections** – Features, philosophy, gallery, specifications, and purchasing options
